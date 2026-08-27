@@ -113,7 +113,7 @@ SLA 위반율(70%대)과 핑퐁 비율이 동시에 1위라는 점에서, 가장
 
 ## 실행 방법
 
-1. `itsspeed_analysis.ipynb`를 Google Colab에서 엽니다.
+1. `ItsSpeed.ipynb`를 Google Colab에서 엽니다.
 2. 위에서부터 순서대로 실행하면 데이터 생성 → SQL 분석 → 자동 리포트 → 시각화까지 진행됩니다.
 3. 한글 폰트 셀(나눔고딕 설치)은 최초 1회 실행 후 런타임 재시작이 필요할 수 있습니다.
 
@@ -121,7 +121,7 @@ SLA 위반율(70%대)과 핑퐁 비율이 동시에 1위라는 점에서, 가장
 
 ```
 .
-├── itsspeed_analysis.ipynb   # 분석 노트북 (Colab)
+├── ItsSpeed.ipynb   # 분석 노트북 (Colab)
 ├── generate_synthetic_data.py # 데이터 생성 스크립트 (노트북과 동일 로직의 단독 실행 버전)
 ├── README.md
 ```
